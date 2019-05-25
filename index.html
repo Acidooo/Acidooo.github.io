@@ -33,6 +33,51 @@
 
     <img src="https://img.commercelayer.io/skus/BABYONBU000000E63E74NBXX.png?fm=jpg&q=90" />
 
+    <!-- Price tag -->
+    <div class="clayer-price" data-sku-code="BABYONBU000000E63E74NBXX">
+      <span class="amount"></span>
+      <span class="compare-at-amount"></span>
+    </div>
+
+      <!-- Availability message templates-->
+      <template id="clayer-availability-message-available-template">
+        <p>
+          Available in
+          <span class="clayer-availability-message-available-min-days"></span>-
+          <span class="clayer-availability-message-available-max-days"></span> days with
+          <span class="clayer-availability-message-available-shipping-method-name"></span>
+          (<span class="clayer-availability-message-available-shipping-method-price"></span>)
+        </p>
+      </template>
+  
+      <template id="clayer-availability-message-unavailable-template">
+        <p class="has-text-danger">The selected SKU is not available.</p>
+      </template>
+
+      <!-- Variants (select) -->
+    <select class="clayer-variant-select" name="variant" data-availability-message-container-id="availability-message" data-add-to-bag-id="add-to-bag">
+      <option value="" disabled selected>Select variant</option>
+      <option class="clayer-variant" data-sku-code="BABYONBU000000E63E74NBXX" data-sku-name="Black Baby Onesie Short Sleeve with Pink Logo (New born)">New born</option>
+      <option class="clayer-variant" data-sku-code="BABYONBU000000E63E746MXX" data-sku-name="Black Baby Onesie Short Sleeve with Pink Logo (6 Months)">6 months</option>
+      <option class="clayer-variant" data-sku-code="BABYONBU000000E63E7412MX" data-sku-name="Black Baby Onesie Short Sleeve with Pink Logo (12 Months)">12 Months</option>
+    </select>
+
+      <!-- Add to bag button -->    
+      <a href="#" class="clayer-add-to-bag"
+       data-sku-code="BABYONBU000000E63E74NBXX"
+       data-sku-name="Black Baby Onesie Short Sleeve with Pink Logo (6 Months)"
+       data-sku-reference="Any reference"
+       data-sku-image-url="https://img.commercelayer.io/skus/BABYONBU000000E63E74NBXX.png?fm=jpg&q=90&w=400"
+       data-availability-message-container-id="availability-message-BABYONBU000000E63E74NBXX">
+       Add to bag
+      </a>
+
+      <!-- Availability message container -->    
+      <div class="clayer-availability-message-container"
+          id="availability-message-BABYONBU000000E63E74NBXX">
+      </div>
+
+  
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 
