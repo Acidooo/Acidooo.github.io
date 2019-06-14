@@ -1,0 +1,39 @@
+@font-face {font-family: "icomoon-the7-social-icons-16x16";src: url("fonts/icomoon-the7-social-icons-16x16.eot?esfwnl");src: url("fonts/icomoon-the7-social-icons-16x16.eot?esfwnl#iefix") format("embedded-opentype"),url("fonts/icomoon-the7-social-icons-16x16.ttf?esfwnl") format("truetype"),url("fonts/icomoon-the7-social-icons-16x16.woff?esfwnl") format("woff"),url("fonts/icomoon-the7-social-icons-16x16.svg?esfwnl#icomoon-the7-social-icons-16x16") format("svg");font-weight: normal;font-style: normal;}
+[class^="soc-font-"], [class*=" soc-font-"], i[class^="dt-icon-"], i[class*=" dt-icon-"] {position: relative;z-index: 2;font-family: "icomoon-the7-social-icons-16x16" !important;font-size: 16px;speak: none;font-style: normal;font-weight: normal;font-variant: normal;text-transform: none;line-height: 26px;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.dt-icons-selector i[class^="dt-icon-"]:before, .dt-icons-selector i[class*=" dt-icon-"]:before {font-family: "icomoon-the7-social-icons-16x16" !important;}
+.snapchat .soc-font-icon:before, .dt-icon-snapchat:before {content: "";}
+.px-500 .soc-font-icon:before, .dt-icon-px-500:before {content: "";}
+.behance .soc-font-icon:before, .dt-icon-behance:before {content: "";}
+.blogger .soc-font-icon:before, .dt-icon-blogger:before {content: "";}
+.delicious .soc-font-icon:before, .dt-icon-delicious:before {content: "";}
+.devian .soc-font-icon:before, .dt-icon-devian:before {content: "";}
+.dribbble .soc-font-icon:before, .dt-icon-dribbble:before {content: "";}
+.facebook .soc-font-icon:before, .dt-icon-facebook:before {content: "";}
+.flickr .soc-font-icon:before, .dt-icon-flickr:before {content: "";}
+.foursquare .soc-font-icon:before, .dt-icon-foursquare:before {content: "";}
+.github .soc-font-icon:before, .dt-icon-github:before {content: "";}
+.google .soc-font-icon:before, .dt-icon-google:before {content: "";}
+.instagram .soc-font-icon:before, .dt-icon-instagram:before {content: "";}
+.lastfm .soc-font-icon:before, .dt-icon-lastfm:before {content: "";}
+.linkedin .soc-font-icon:before, .dt-icon-linkedin:before {content: "";}
+.mail .soc-font-icon:before, .dt-icon-mail:before {content: "";}
+.odnoklassniki .soc-font-icon:before, .dt-icon-odnoklassniki:before {content: "";}
+.pinterest .soc-font-icon:before, .dt-icon-pinterest:before {content: "";}
+.reddit .soc-font-icon:before, .dt-icon-reddit:before {content: "";}
+.research-gate .soc-font-icon:before, .dt-icon-research-gate:before {content: "";}
+.rss .soc-font-icon:before, .dt-icon-rss:before {content: "";}
+.skype .soc-font-icon:before, .dt-icon-skype:before {content: "";}
+.soundcloud .soc-font-icon:before, .dt-icon-soundcloud:before {content: "";}
+.stumbleupon .soc-font-icon:before, .dt-icon-stumbleupon:before {content: "";}
+.tripedvisor .soc-font-icon:before, .dt-icon-tripedvisor:before {content: "";}
+.tumbler .soc-font-icon:before, .dt-icon-tumbler:before {content: "";}
+.twitter .soc-font-icon:before, .dt-icon-twitter:before {content: "";}
+.viber .soc-font-icon:before, .dt-icon-viber:before {content: "";}
+.vimeo .soc-font-icon:before, .dt-icon-vimeo:before {content: "";}
+.vk .soc-font-icon:before, .dt-icon-vk:before {content: "";}
+.website .soc-font-icon:before, .dt-icon-website:before {content: "";}
+.weibo .soc-font-icon:before, .dt-icon-weibo:before {content: "";}
+.whatsapp .soc-font-icon:before, .dt-icon-whatsapp:before {content: "";}
+.xing .soc-font-icon:before, .dt-icon-xing:before {content: "";}
+.yelp .soc-font-icon:before, .dt-icon-yelp:before {content: "";}
+.you-tube .soc-font-icon:before, .dt-icon-you-tube:before {content: "";}
